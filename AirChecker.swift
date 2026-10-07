@@ -19,7 +19,7 @@ let locations = [
     ),
 ]
 let selectedKey = "selectedLocation"
-let refreshInterval: TimeInterval = 60
+let refreshInterval: TimeInterval = 300
 
 struct Response: Decodable {
     struct Sensor: Decodable {

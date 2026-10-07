@@ -10,7 +10,7 @@ A small macOS menu bar app that shows the current PM2.5 air quality (µg/m³) fr
 | Red      | 50 – 74       |
 | Dark red | 75+           |
 
-Values refresh every 60 seconds. Click the badge to see all sensors; click a sensor to show it in the menu bar (the choice is remembered). A grey `?` means the last fetch failed.
+Values refresh every 5 minutes. Click the badge to see all sensors; click a sensor to show it in the menu bar (the choice is remembered). A grey `?` means the last fetch failed.
 
 ## Install
 
